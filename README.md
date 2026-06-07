@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate with builders and CyberSecurity punks 
-- 📫 Reach me on twitter @J4IC3
+- 📫 Reach me on twitter @JAICENIEL
 
 <!---
 Jace-007/Jace-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
